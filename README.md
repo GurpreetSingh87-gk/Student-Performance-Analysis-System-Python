@@ -149,6 +149,13 @@ Example dataset structure:
 | S003       | Student 3    |          91 |      89 |      94 |        96% |
 
 ---
+
+## 📸 Screenshots
+
+##### Dashboard
+
+<img width="1920" height="1009" alt="Image" src="https://github.com/user-attachments/assets/4b66a920-84f0-4f74-94af-bc258387318e"/>
+
 ---
 
 ## ⚙️ Installation & Setup
@@ -216,38 +223,6 @@ python main.py
 ```
 
 > If your main file has a different name, replace `main.py` with the appropriate filename.
-
----
-
-## 📸 Screenshots
-
-Add screenshots of your application here.
-
-Example:
-
-```markdown
-## Dashboard
-
-![Student Performance Dashboard](assets/screenshots/dashboard.png)
-```
-
-You can include screenshots such as:
-
-* Dashboard
-* Student table
-* Student performance view
-* Subject-wise chart
-* Performance analysis
-
-Example structure:
-
-```text
-assets/
-└── screenshots/
-    ├── dashboard.png
-    ├── student-table.png
-    └── performance-analysis.png
-```
 
 ---
 
