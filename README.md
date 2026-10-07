@@ -156,6 +156,18 @@ Example dataset structure:
 
 <img width="1920" height="1009" alt="Image" src="https://github.com/user-attachments/assets/4b66a920-84f0-4f74-94af-bc258387318e"/>
 
+##### Student Section
+
+
+
+##### Analytics Section
+
+
+
+##### Prediction Section
+
+
+
 ---
 
 ## ⚙️ Installation & Setup
