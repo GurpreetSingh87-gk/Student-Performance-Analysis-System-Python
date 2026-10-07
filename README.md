@@ -154,17 +154,34 @@ Example dataset structure:
 
 ##### Dashboard
 
-<img width="1920" height="1009" alt="Image" src="https://github.com/user-attachments/assets/4b66a920-84f0-4f74-94af-bc258387318e"/>
+<img width="1920" height="1000" alt="Image" src="https://github.com/user-attachments/assets/61f49a08-933a-4e83-80c7-78dc582ee8c6" />
 
 ##### Student Section
 
+<img width="1920" height="1003" alt="Image" src="https://github.com/user-attachments/assets/d16b8f4b-20bb-474a-8684-8bc9263665e4" />
 
+<img width="1920" height="1009" alt="Image" src="https://github.com/user-attachments/assets/4c2fb75c-28ff-40eb-887b-4ceea6a273d2" />
+
+<img width="1920" height="1005" alt="Image" src="https://github.com/user-attachments/assets/cac898d4-1a2f-4fc8-9f14-5be718e61a74" />
+
+<img width="1920" height="1005" alt="Image" src="https://github.com/user-attachments/assets/fd5156a1-9f5a-4ec7-ad40-3ef28adfcf9b" />
 
 ##### Analytics Section
 
+<img width="1920" height="1003" alt="Image" src="https://github.com/user-attachments/assets/3f859f2d-9cc4-478c-b56a-80782e1f9f1f" />
 
 
 ##### Prediction Section
+
+<img width="1920" height="998" alt="Image" src="https://github.com/user-attachments/assets/d0134406-8ffa-4648-89f2-7dfb607e8a17" />
+
+
+
+
+
+
+
+
 
 
 
