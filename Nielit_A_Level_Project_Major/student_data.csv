@@ -1,0 +1,12 @@
+Student ID,Student Name,Class,Gender,Age,Attendance Rate,Days Absent,Maths,Science,English,Social Science,IT,Term1,Term2,Term3,Term4,Average_Marks,Pass_Percentage,Grade,Performance
+STU101,George Kennedy,10-A,Male,17,90%,5,92,93,94,96,97,96,97,93,92,94.4,100,A+,Excellent
+STU102,Aisha Khan,10-B,Female,16,70%,7,67,25,61,45,86,61,77,87,56,56.8,80,C,Below Average
+STU103,Ethan Winters,10-C,Male,16,80%,4,82,74,84,88,73,75,81,86,88,85.4,100,A,Good
+STU104,Jasmine Lee,10-A,Female,16,14%,6,67,98,78,46,34,35,55,67,23,64.6,80,B,Average
+STU105,Jordon Ramsay,10-B,Male,17,79%,5,46,13,90,9,10,19,23,27,12,33.6,40,F,Poor
+STU106,Liam Smith,10-E,Male,17,27%,8,76,55,45,43,25,71,53,45,25,48.8,80,D,Below Average
+STU107,Olivia Brown,10-D,Female,18,51%,9,48,13,66,34,10,34,43,49,23,34.2,40,F,Poor
+STU108,Noah Johnson,10-F,Male,16,10%,11,76,67,56,98,78,67,76,33,89,75,100,B+,Good
+STU109,Sophia Davis,10-C,Female,17,23%,15,10,54,23,34,38,12,11,6,9,31.8,20,F,Poor
+STU110,Mia Wilson,10-E,Female,16,29%,4,78,98,89,68,87,35,78,89,98,84,100,A,Good
+STU111,Irfan Hussan,10-F,Male,16,66%,5,87,48,37,63,54,74,83,64,53
