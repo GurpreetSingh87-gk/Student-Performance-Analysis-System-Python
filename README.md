@@ -1,4 +1,4 @@
-# 📊 Student Performance Analysis System-Python
+# 📊 Student Performance Analysis System
 
 A **Python-based Student Performance Analysis System** designed to analyze, visualize, and monitor student academic performance through an interactive dashboard.
 
