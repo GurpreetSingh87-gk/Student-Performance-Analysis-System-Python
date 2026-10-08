@@ -1,4 +1,4 @@
-# 📊 Student Performance Analysis System
+# 📊 Student Performance Analysis System-CustomTkinter-Python
 
 A **Python-based Student Performance Analysis System** designed to analyze, visualize, and monitor student academic performance through an interactive dashboard.
 
